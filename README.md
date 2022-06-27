@@ -1,6 +1,6 @@
 # CS5014 Machine Learning: Visual Attributes
 
-This repository demonstrates work completed as part of the **CS5014 Machine Learning** module for Practical 2. A multi-layer perceptron (i.e., feed-forward neural network) has been trained and evaluated for the task of predicting the colour and texture of image objects from a set of features pre-extracted from a subset of the [GQA dataset](https://arxiv.org/abs/1902.09506).
+This repository demonstrates work completed as part of the **CS5014 Machine Learning** module for Practical 2. A multi-layer perceptron (i.e., feed-forward neural network) was trained and evaluated for the task of predicting the colour and texture of image objects from a set of features pre-extracted from a subset of the [GQA dataset](https://arxiv.org/abs/1902.09506). Furthermore, a Random Forest Classifier (i.e., ensemble of decision tree classifiers) was also trained for the purpose of comparing the two different approaches.
 
 The aim of this practical was to apply machine learning on a recent, open-ended research problem with the freedom to choose the most appropriate approach (with justification). The submission demonstrates an understanding of:
 - How to select and train a suitable classification model;
